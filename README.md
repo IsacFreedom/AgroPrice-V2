@@ -1,4 +1,8 @@
-# 🌽 AgroPrice : prévoir les prix des denrées sur les marchés togolais
+# AgroPrice : prévoir les prix des denrées sur les marchés togolais
+
+[![Démo en ligne](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://agroprice.streamlit.app/)
+
+**▶ [Essayer le dashboard en ligne](https://agroprice.streamlit.app/)**
 
 **Question :** peut-on prévoir à 1-6 mois les prix de détail du maïs, du gari, du riz importé et du sorgho au Togo, et un modèle sophistiqué fait-il mieux que le simple « prix du mois dernier » ?
 
