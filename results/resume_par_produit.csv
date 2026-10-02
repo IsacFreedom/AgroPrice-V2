@@ -1,0 +1,21 @@
+produit,modele,MASE,MAPE,n
+Cassava meal (gari),ets,1.612,13.318,959
+Cassava meal (gari),lightgbm_global,1.645,13.822,959
+Cassava meal (gari),naif,1.599,13.328,959
+Cassava meal (gari),naif_saisonnier,2.701,21.489,959
+Cassava meal (gari),prophet,2.405,19.978,959
+Maize (white),ets,1.203,12.912,956
+Maize (white),lightgbm_global,1.247,13.311,956
+Maize (white),naif,1.344,14.796,956
+Maize (white),naif_saisonnier,2.123,21.243,956
+Maize (white),prophet,1.966,19.803,956
+Rice (imported),ets,1.172,5.927,933
+Rice (imported),lightgbm_global,1.063,5.503,933
+Rice (imported),naif,1.097,5.738,933
+Rice (imported),naif_saisonnier,1.468,7.15,933
+Rice (imported),prophet,1.82,9.027,933
+Sorghum,ets,1.278,13.049,793
+Sorghum,lightgbm_global,1.25,12.977,793
+Sorghum,naif,1.265,13.075,793
+Sorghum,naif_saisonnier,2.085,20.966,793
+Sorghum,prophet,1.944,19.6,793

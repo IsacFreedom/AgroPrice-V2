@@ -1,0 +1,12 @@
+[project]
+name = "agroprice"
+version = "0.1.0"
+description = "Prévision des prix des denrées sur les marchés togolais (données WFP)"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

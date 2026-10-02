@@ -1,0 +1,24 @@
+marche,produit,debut,fin,mois,manquants,plus_long_trou,prix_median
+Amegnran,Cassava meal (gari),2001-01-01,2022-06-01,258,1,1,166.0
+Anie,Cassava meal (gari),2001-01-01,2022-06-01,258,8,1,200.0
+Cinkassé,Cassava meal (gari),2001-01-01,2022-06-01,258,3,2,241.0
+Kara,Cassava meal (gari),2001-01-01,2022-06-01,258,1,1,220.0
+Korbongou,Cassava meal (gari),2001-01-01,2022-06-01,258,1,1,241.0
+Lomé,Cassava meal (gari),2001-01-01,2022-06-01,258,3,2,266.0
+Amegnran,Maize (white),2001-01-01,2022-06-01,258,1,1,153.0
+Anie,Maize (white),2001-01-01,2022-06-01,258,1,1,130.0
+Cinkassé,Maize (white),2001-01-01,2022-06-01,258,3,2,135.0
+Kara,Maize (white),2001-01-01,2022-06-01,258,1,1,152.0
+Korbongou,Maize (white),2001-01-01,2022-06-01,258,1,1,136.0
+Lomé,Maize (white),2001-01-01,2022-06-01,258,10,2,184.5
+Amegnran,Rice (imported),2001-01-01,2022-06-01,258,1,1,530.0
+Anie,Rice (imported),2001-01-01,2022-06-01,258,1,1,422.0
+Cinkassé,Rice (imported),2001-01-01,2022-06-01,258,3,2,416.0
+Kara,Rice (imported),2001-01-01,2022-06-01,258,1,1,432.0
+Korbongou,Rice (imported),2001-01-01,2022-06-01,258,4,3,417.5
+Lomé,Rice (imported),2001-01-01,2022-04-01,256,39,4,400.0
+Anie,Sorghum,2001-01-01,2022-06-01,258,1,1,185.0
+Cinkassé,Sorghum,2001-01-01,2022-06-01,258,10,2,139.0
+Kara,Sorghum,2001-01-01,2022-06-01,258,1,1,186.0
+Korbongou,Sorghum,2001-01-01,2022-06-01,258,2,1,140.5
+Lomé,Sorghum,2001-01-01,2022-06-01,258,3,2,271.0
